@@ -1,5 +1,6 @@
 ---
 tags: [geopolitics, theory-critique, geography, grand-strategy]
+status: complete
 ---
 # Continental vs Maritime Power
 
@@ -13,6 +14,12 @@ Each arrow requires additional causal structure: relative power, alliances, mili
 
 A land-exposed state can respond through alliances, fortification, deterrence, accommodation, neutrality, buffers, annexation, or other strategies. Strong allies can substitute for territorial buffers. Maritime status should be continuous rather than binary. Oceans protect against conquest more reliably than against all modern attack. Transport revolutions strengthen both continental and maritime powers. Postindustrial continental competition need not center on territorial acquisition.
 
+The discussion also raised the effect of additional operational domains—air, space, cyber, and cognitive/information—on any simple land/sea classification. These domains do not erase geography, but they make the causal relationship between geography and strategic behavior more conditional on technology, information, alliance structure, and cross-domain capabilities.
+
 A deeper candidate distinction is territory/control versus network access rather than land versus sea.
+
+## Disposition
+
+This substantive geopolitics thread is considered complete for the present discussion. Its main continuing value is as the motivating example that exposed the need for more explicit causal mechanisms, rival pathways, measurement models, and scope/invariance reasoning. Further methodology work should not assume that the geopolitical theory itself remains an open research task.
 
 Related: [[Effective Exposure to Hostile Contiguous Threats]], [[20 Process Tracing/Mechanism-Centered Comparative Causal Analysis]].
