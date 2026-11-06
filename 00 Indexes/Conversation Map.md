@@ -27,5 +27,8 @@ source_conversation: https://chatgpt.com/c/6ab832fd-39f8-83e9-b7b7-befd7b0824ce
 - [[50 Engineering Connections/AES and Ontology Engineering]]
 - [[90 Sources/Conversation Provenance]]
 
+## Philosophy, causality, and collective competence
+- [[10 Philosophy and Causality/Deleuze, Trajectory Space, and Collective Competence]] — Deleuze's societies of control, assemblages, coarse-graining, reachability, multiscale competence, Hoel, Levin, and research directions for Collective Competence (2026-09-28). Project-facing note: BrianMills2718/collective-competence, research/deleuze-trajectory-space.md.
+
 ## Current highest-value question
 What theory of causal abstraction lets us determine when a process-tracing mechanism has been decomposed far enough?
